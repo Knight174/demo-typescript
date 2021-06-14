@@ -1,0 +1,36 @@
+Arguments: 
+  D:\Program Files\nodejs\node.exe D:\Program Files (x86)\Yarn\bin\yarn.js init --yse
+
+PATH: 
+  D:\Program Files\Git\mingw64\bin;D:\Program Files\Git\usr\bin;C:\Users\42530\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\Program Files\Java\jdk-11.0.2\bin;D:\Program Files\nodejs;D:\Program Files (x86)\Yarn\bin;D:\Program Files\Python\Python38;D:\Program Files\Python\Python38\Scripts;D:\wamp64\bin\mysql\mysql5.7.31\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;D:\Program Files\Git\cmd;C:\Users\42530\AppData\Local\Microsoft\WindowsApps;D:\Program Files (x86)\Microsoft VS Code\bin;C:\Users\42530\AppData\Roaming\npm;C:\Users\42530\AppData\Local\Yarn\bin;C:\Users\42530\AppData\Local\GitHubDesktop\bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.18.2
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (D:\Program Files (x86)\Yarn\lib\cli.js:137008:13)
+      at Interface.emit (events.js:315:20)
+      at Interface._ttyWrite (readline.js:866:16)
+      at ReadStream.onkeypress (readline.js:205:10)
+      at ReadStream.emit (events.js:315:20)
+      at emitKeys (internal/readline/utils.js:335:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1133:36)
+      at ReadStream.emit (events.js:315:20)
+      at addChunk (_stream_readable.js:295:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
